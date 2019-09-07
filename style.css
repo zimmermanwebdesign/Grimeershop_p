@@ -1,0 +1,23 @@
+/*
+Theme Name: Grimeershop
+Theme URI: https://www.zimmermanwebdesign.be/
+Author: Zimmerman Webdesign | Chris Zimmerman
+Author URI: https://www.zimmermanwebdesign.be/
+Description: Theme made for a client.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Grimeershop
+Tags: responsive, woocommerce, translate-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body {
+    margin: 0!important;
+    font-family: 'Quicksand'!important;
+    font-weight: normal;
+}
